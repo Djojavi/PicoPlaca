@@ -1,4 +1,5 @@
-﻿using PicoPlacaDJ;
+﻿using PicoPlaca;
+using PicoPlacaDJ;
 using System.Globalization;
 
 namespace PicoYPlaca
@@ -28,6 +29,7 @@ namespace PicoYPlaca
                 }
 
                 var licensePlateObj = new LicensePlate(licensePlate);
+                int lastDigit = licensePlateObj.LastDigit;
 
                 Console.Write("Enter date (yyyy-MM-dd): ");
                 var dateConsole = Console.ReadLine();
@@ -37,6 +39,7 @@ namespace PicoYPlaca
                     Console.WriteLine("Invalid date format. Expected yyyy-MM-dd.");
                     return;
                 }
+                var dayOfWeek = date.DayOfWeek;
 
                 Console.Write("Enter time (HH:mm): ");
                 var timeConsole = Console.ReadLine();
@@ -46,6 +49,9 @@ namespace PicoYPlaca
                     Console.WriteLine("Invalid time format. Expected HH:mm.");
                     return;
                 }
+
+                Restrictions restriction = new Restrictions(lastDigit, dayOfWeek, time);
+                Console.WriteLine(restriction.Restriction + "\n");
 
             }
 

@@ -5510,8 +5510,8 @@
     },
     "PicoPlaca/1.0.0": {
       "type": "project",
-      "path": "../PicoPlacaDJ/PicoPlaca.csproj",
-      "msbuildProject": "../PicoPlacaDJ/PicoPlaca.csproj"
+      "path": "../PicoPlaca/PicoPlaca.csproj",
+      "msbuildProject": "../PicoPlaca/PicoPlaca.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\PicoPlaca.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\PicoPlaca.csproj"
+            "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca\\PicoPlaca.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca\\PicoPlaca.csproj"
             }
           }
         }
