@@ -1,0 +1,15 @@
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\bin\Debug\net8.0\PicoPlaca.exe
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\bin\Debug\net8.0\PicoPlaca.deps.json
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\bin\Debug\net8.0\PicoPlaca.runtimeconfig.json
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\bin\Debug\net8.0\PicoPlaca.dll
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\bin\Debug\net8.0\PicoPlaca.pdb
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.AssemblyInfo.cs
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.sourcelink.json
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.dll
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\refint\PicoPlaca.dll
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.pdb
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\PicoPlaca.genruntimeconfig.cache
+C:\Users\User\Documents\PicoPlacaDJ\PicoPlaca\PicoPlacaDJ\obj\Debug\net8.0\ref\PicoPlaca.dll

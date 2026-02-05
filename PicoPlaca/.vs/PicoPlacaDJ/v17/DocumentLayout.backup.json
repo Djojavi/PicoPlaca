@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0619DA-B969-4303-9492-F389A84CB8D0}|PicoPlacaDJ.csproj|c:\\users\\user\\documents\\picoplacadj\\picoplaca\\picoplacadj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0619DA-B969-4303-9492-F389A84CB8D0}|PicoPlacaDJ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0619DA-B969-4303-9492-F389A84CB8D0}|PicoPlacaDJ.csproj|c:\\users\\user\\documents\\picoplacadj\\picoplaca\\picoplacadj\\licenseplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0619DA-B969-4303-9492-F389A84CB8D0}|PicoPlacaDJ.csproj|solutionrelative:licenseplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE2591-B080-477A-AC55-57E7E36F35A0}|..\\PicoPlaca.Tests\\PicoPlaca.Tests.csproj|c:\\users\\user\\documents\\picoplacadj\\picoplaca\\picoplaca.tests\\licenseplatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T01:06:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LicensePlate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\LicensePlate.cs",
+              "RelativeDocumentMoniker": "LicensePlate.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\LicensePlate.cs",
+              "RelativeToolTip": "LicensePlate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T01:05:36.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicensePlateTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca.Tests\\LicensePlateTests.cs",
+              "RelativeDocumentMoniker": "..\\PicoPlaca.Tests\\LicensePlateTests.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca.Tests\\LicensePlateTests.cs",
+              "RelativeToolTip": "..\\PicoPlaca.Tests\\LicensePlateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T01:05:32.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
