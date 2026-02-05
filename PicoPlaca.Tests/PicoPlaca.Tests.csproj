@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PicoPlacaDJ\PicoPlacaDJ.csproj" />
+    <ProjectReference Include="..\PicoPlacaDJ\PicoPlaca.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1709,14 +1709,14 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "PicoPlacaDJ/1.0.0": {
+      "PicoPlaca/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/PicoPlacaDJ.dll": {}
+          "bin/placeholder/PicoPlaca.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PicoPlacaDJ.dll": {}
+          "bin/placeholder/PicoPlaca.dll": {}
         }
       }
     }
@@ -5508,16 +5508,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "PicoPlacaDJ/1.0.0": {
+    "PicoPlaca/1.0.0": {
       "type": "project",
-      "path": "../PicoPlacaDJ/PicoPlacaDJ.csproj",
-      "msbuildProject": "../PicoPlacaDJ/PicoPlacaDJ.csproj"
+      "path": "../PicoPlacaDJ/PicoPlaca.csproj",
+      "msbuildProject": "../PicoPlacaDJ/PicoPlaca.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
-      "PicoPlacaDJ >= 1.0.0",
+      "PicoPlaca >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca.Tests\\PicoPlaca.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca.Tests\\PicoPlaca.Tests.csproj",
       "projectName": "PicoPlaca.Tests",
-      "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca.Tests\\PicoPlaca.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca.Tests\\PicoPlaca.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlaca.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlacaDJ\\PicoPlacaDJ.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlacaDJ\\PicoPlacaDJ.csproj"
+            "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\PicoPlaca.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\PicoPlacaDJ\\PicoPlaca\\PicoPlacaDJ\\PicoPlaca.csproj"
             }
           }
         }
