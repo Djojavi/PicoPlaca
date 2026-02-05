@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PicoPlaca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e499126c01be9b8dcbeb492fd22cd9f46e045f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6077068dcf8b0e1654d6e6bc7872ab73e941c9a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PicoPlaca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PicoPlaca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
