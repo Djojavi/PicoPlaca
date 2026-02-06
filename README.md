@@ -110,33 +110,12 @@ dotnet --version
 ### Installation
 
 1. **Clone or download the project**
-```bash
-   cd PicoYPlaca
-```
 
-2. **Restore dependencies**
-```bash
-   dotnet restore
-```
-
-3. **Build the project**
-```bash
-   dotnet build
-```
-
-4. **Run the application**
+2. **Run the application**
 ```bash
    dotnet run
 ```
-
 ---
-
-## Usage
-
-Run the application and follow the prompt:
-```bash
-dotnet run
-```
 
 ## Architecture
 
