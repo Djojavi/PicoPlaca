@@ -1,4 +1,4 @@
-using PicoPlacaDJ;
+using PicoPlaca.Models;
 
 namespace PicoPlaca.Tests
 {

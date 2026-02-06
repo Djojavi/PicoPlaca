@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace PicoPlacaDJ
+namespace PicoPlaca.Models
 {
     /// <summary>
     ///     License plate model and validation

@@ -1,5 +1,5 @@
-﻿using PicoPlaca;
-using PicoPlacaDJ;
+﻿using PicoPlaca.Models;
+using PicoPlaca.Services;
 using System.Globalization;
 
 namespace PicoYPlaca
@@ -49,10 +49,11 @@ namespace PicoYPlaca
                     Console.WriteLine("Invalid time format. Expected HH:mm.");
                     return;
                 }
-
-                Restrictions restriction = new Restrictions(lastDigit, dayOfWeek, time);
-                Console.WriteLine(restriction.Restriction + "\n");
-
+                RestrictionsConfig restrictionConfig = new RestrictionsConfig();
+                Restrictions restriction = new Restrictions(restrictionConfig);
+                Console.WriteLine(restriction.CheckRestriction(lastDigit, dayOfWeek, time).Reason);
+                Console.WriteLine("===========================================");
+                Console.WriteLine("\n");
             }
 
         }
